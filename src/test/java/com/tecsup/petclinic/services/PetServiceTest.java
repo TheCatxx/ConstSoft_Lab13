@@ -30,7 +30,7 @@ public class PetServiceTest {
 	@Test
 	public void testFindPetById() {
 
-		long ID = 2;
+		long ID = 1;
 		String NAME = "Leo";
 		Pet pet = null;
 		
